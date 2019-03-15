@@ -17,7 +17,7 @@ npm i
 npm start
 ```
 
-Use default Port used: 3001
+Default Port used: 3001
 
 
 ### Notes
