@@ -22,7 +22,7 @@ Use default Port used: 3001
 
 ### Notes
 
-File are saved in /public/files folder on the server
-Cors should be handeled properly
+- File are saved in /public/files folder on the server.
+- Cors should be handeled properly.
 
 
